@@ -1,0 +1,803 @@
+[
+    {
+        "name": "existeImgD",
+        "data": "",
+        "type": "string",
+        "category": "",
+        "disabled": false,
+        "index": 0,
+        "id": "795845b1-7a6a-1a00-5c47-08801e6bd0fd"
+    },
+    {
+        "name": "datosConsultaGIAD",
+        "data": "",
+        "type": "string",
+        "category": "",
+        "disabled": false,
+        "index": 1,
+        "id": "dce526de-8dbd-77d8-1c89-26139f4b10dd"
+    },
+    {
+        "name": "imagenSinFondo",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/ImagenesSinFondo/CINTA AISLANTE 3M.png",
+        "type": "file",
+        "category": "",
+        "disabled": false,
+        "index": 2,
+        "id": "420fafb9-d522-b366-41dd-735228f276a6"
+    },
+    {
+        "name": "respuestaBeneficiosD",
+        "data": "",
+        "type": "string",
+        "category": "",
+        "disabled": false,
+        "index": 3,
+        "id": "5e9cb7d4-0eb8-17f2-6604-f559d3f93777"
+    },
+    {
+        "name": "fichaTecnicaResult",
+        "data": "",
+        "type": "string",
+        "category": "",
+        "disabled": false,
+        "index": 4,
+        "id": "21e9c302-e9b2-ae05-0506-1c7c4fbb3e5c"
+    },
+    {
+        "name": "linkProductoD",
+        "data": "",
+        "type": "string",
+        "category": "",
+        "disabled": false,
+        "index": 5,
+        "id": "e42ea9cf-67b9-4c3f-11e7-8242c23a6480"
+    },
+    {
+        "name": "encontroDescripcionD",
+        "data": "",
+        "type": "string",
+        "category": "",
+        "disabled": false,
+        "index": 6,
+        "id": "60aed3e0-75ad-0135-d467-6109f00562e3"
+    },
+    {
+        "name": "existeComillasD",
+        "data": "",
+        "type": "string",
+        "category": "",
+        "disabled": false,
+        "index": 7,
+        "id": "e4bbc645-8d11-3cc2-3a92-0205f8a27965"
+    },
+    {
+        "name": "app",
+        "data": "",
+        "type": "string",
+        "category": "",
+        "disabled": false,
+        "index": 8,
+        "id": "f34f96b9-ede8-d127-7a06-15a39b00f57c"
+    },
+    {
+        "name": "existePDFD",
+        "data": "",
+        "type": "string",
+        "category": "",
+        "disabled": false,
+        "index": 9,
+        "id": "50fa613d-20dc-c0fb-fb0f-c386b3736e22"
+    },
+    {
+        "name": "urlPDFD",
+        "data": "https://tools02.promart.pe/generator-pdf_v2/?url_page=/esponja-2-en-1-x6-unids-/p",
+        "type": "string",
+        "category": "",
+        "disabled": false,
+        "index": 10,
+        "id": "a156c62b-3901-40c6-8236-4d77d7f9915a"
+    },
+    {
+        "name": "codigoHtmlPagina",
+        "data": "",
+        "type": "string",
+        "category": "",
+        "disabled": false,
+        "index": 11,
+        "id": "f6836df4-4a50-3f9a-c626-bf78a08e0815"
+    },
+    {
+        "name": "excelDatosProductosD",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Materiales/LISTA 100 PRODUCTOS.xlsx",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 12,
+        "id": "75223178-096d-9d92-10a9-09f17f2ed455"
+    },
+    {
+        "name": "rutaLogD",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/logs",
+        "type": "folder",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 13,
+        "id": "887990f7-0ed3-ca30-0916-9ad65b20fe54"
+    },
+    {
+        "name": "nombreLogD",
+        "data": "log-2025-05-14.log",
+        "type": "string",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 14,
+        "id": "1062294a-eb6f-dd0f-76c5-06559a69b2f8"
+    },
+    {
+        "name": "existeRutaLogD",
+        "data": "True",
+        "type": "string",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 15,
+        "id": "23f40b8a-dd81-5e21-c011-2e0f457d1a1d"
+    },
+    {
+        "name": "cantidadFilasD",
+        "data": "3",
+        "type": "string",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 16,
+        "id": "a537757a-1656-8272-f66c-28ef84e5f11e"
+    },
+    {
+        "name": "jsonConsulta2",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Json/consultaBeneficiosGIA.json",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 17,
+        "id": "7de6cb77-651a-c117-ecc0-948e48cffeb7"
+    },
+    {
+        "name": "jsonConsulta",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Json/consulta_gemini.json",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 18,
+        "id": "f2ca522c-4a42-fd4d-44bf-e603e7e3c0c3"
+    },
+    {
+        "name": "scriptDescargaImagenD",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Python/DescargaImagen.py",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 19,
+        "id": "d7ff736c-f392-5c4d-bab2-5246d3dff1b8"
+    },
+    {
+        "name": "jsonImagenD",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Json/nombreImagenLB.json",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 20,
+        "id": "460e8a28-e6a2-9a2f-34ca-d3b9261cdddc"
+    },
+    {
+        "name": "quitarFondoImagen",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Python/quitaFondos.py",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 21,
+        "id": "fd70566d-2acb-53d3-a234-a85c1cd79dc5"
+    },
+    {
+        "name": "consultaGeminiD",
+        "data": "{\n    \"promptIA\": \"Describe en una sola línea técnica y comercial en qué consiste el siguiente producto, incluyendo solo sus características generales y posibles aplicaciones prácticas en entornos industriales o empresariales; la respuesta debe tener aproximadamente 150 palabras, ser larga pero concisa, sin saltos de línea, sin comillas, sin llaves, y lista para ser usada como valor en un diccionario JSON.\",\n    \"datos\": \"Cinta Aislante 3M 3/4 x 18m Temflex 165\",\n    \"respuestaIA\": \"La Cinta Aislante 3M Temflex 165 de 3/4 pulgada por 18 metros es una cinta de vinilo económica, flexible y retardante de llama, diseñada para aislamiento eléctrico primario de baja tensión, reparación y empalme de cables, con buena resistencia a la abrasión, humedad, álcalis, ácidos y corrosión, ideal para aplicaciones generales en mantenimiento industrial, construcción, reparaciones eléctricas residenciales y comerciales, arneses de cableado automotriz y marcaje de cables, proporcionando una solución confiable para el aislamiento, protección y sujeción de componentes eléctricos en diversos entornos, ofreciendo seguridad y durabilidad a un precio accesible para una amplia gama de usuarios profesionales y domésticos.\\n\"\n}",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 22,
+        "id": "83b5d679-1523-a3b0-f45d-8c77578915df"
+    },
+    {
+        "name": "jsonQuitaFondoD",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Json/imagenSinFondo.json",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 23,
+        "id": "0c007ebd-b65a-203b-ebca-2c8e94abe67e"
+    },
+    {
+        "name": "jsonFichaTecnica",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Json/DatosFichaTecnica.json",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 24,
+        "id": "5a3a1bae-c316-73c1-1e00-a7f5f2fc3b12"
+    },
+    {
+        "name": "jsonRespuestaBeneficios",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Json/consultaBeneficiosGIA.json",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 25,
+        "id": "fa11a07e-591e-b928-564c-9fc9bc4c469c"
+    },
+    {
+        "name": "jsonrespuestaIA",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Json/consulta_gemini.json",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 26,
+        "id": "6cccb04d-21a4-5b7e-eced-37d25f5feeab"
+    },
+    {
+        "name": "jsonArchivoPDF",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Json/urlPDF.json",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 27,
+        "id": "d8c423e4-2b9c-8089-6373-19012f8de850"
+    },
+    {
+        "name": "jsonArchivoConsultaDatosProducto",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Json/consultaGeminiDatosP.json",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 28,
+        "id": "a9bf377d-d5b6-f1bc-6d37-2d6832a4069d"
+    },
+    {
+        "name": "jsonArchivoDatosPDF",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Json/texto_extraido.json",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 29,
+        "id": "a95cbe08-23a6-a45f-58b9-da9629f53f1e"
+    },
+    {
+        "name": "ExtraerDatosPDF",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Bat/extraerdatosPdf.bat",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 30,
+        "id": "47fecdc0-97af-40c2-ccfd-574e99773dc9"
+    },
+    {
+        "name": "consultaDatosProductoGIA",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Bat/consultgeminiDatosProducto.bat",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 31,
+        "id": "3b6e8de9-95dc-37bf-3114-5d8cbb60e519"
+    },
+    {
+        "name": "transferJson",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Bat/transferirDatos.bat",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 32,
+        "id": "627e574e-a62b-24d9-80e9-ce0655cdb16e"
+    },
+    {
+        "name": "htmlArchivoPDF",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/html/htmlPagina.html",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 33,
+        "id": "4353598e-7349-c793-e205-dba1b9dec65e"
+    },
+    {
+        "name": "extractorURL",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Bat/extractorURPDF.bat",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 34,
+        "id": "fac099c9-fd6f-ae02-0160-856bd3605fd5"
+    },
+    {
+        "name": "jsonArchivoUrlExtraido",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Json/ficha_cnt_output.json",
+        "type": "file",
+        "category": "Archivos",
+        "disabled": false,
+        "index": 35,
+        "id": "628093f3-2529-1703-b7e1-52c6de833be8"
+    },
+    {
+        "name": "datosTextoExtraidoPdf",
+        "data": "",
+        "type": "string",
+        "category": "Datos",
+        "disabled": false,
+        "index": 36,
+        "id": "b63200ff-d860-7f35-53ff-9d1775d64b1e"
+    },
+    {
+        "name": "datosProductoPDF",
+        "data": "",
+        "type": "string",
+        "category": "Datos",
+        "disabled": false,
+        "index": 37,
+        "id": "8702bfbe-dfd9-3b9d-7321-c0734fe47563"
+    },
+    {
+        "name": "jsonDatoURL",
+        "data": "",
+        "type": "string",
+        "category": "Datos",
+        "disabled": false,
+        "index": 38,
+        "id": "ceff7ed5-0639-f0f8-a907-c9a47ba1add7"
+    },
+    {
+        "name": "jsonArchivoDatosProducto",
+        "data": "{\n    \"nombreProductoD\": \"Esponja 3M 2 en 1 x 6 unidades\",\n    \"DescripcionGeneralD\": \"hola a todos como estan\",\n    \"alturaProductoD\": \"3.5 cm\",\n    \"anchoProductoD\": \"7 cm\",\n    \"profundidadProductoD\": \"10 cm\",\n    \"colorProductoD\": \"Amarillo\",\n    \"tipoProductoD\": \"Esponja\",\n    \"materialProductoD\": \"Poliuretano/Fibra Sintética\",\n    \"marcaProductoD\": \"3M\",\n    \"pesoProductoD\": \"\",\n    \"observacionProductoD\": \"Vienen 6 unidades por paquete\",\n    \"recomendacionesUsoProductoD\": \"Se recomienda lavar y limpiar el producto después de cada uso\",\n    \"advertenciaProductoD\": \"Evitar el contacto con fuego directo\",\n    \"rutalmagenProducto\": \"C:/Proyectos/Demo-Huawei-DeepSeek/ImagenesSinFondo/CINTA AISLANTE 3M.png\"\n}",
+        "type": "string",
+        "category": "Datos",
+        "disabled": false,
+        "index": 88,
+        "id": "8693e793-5ef9-2ac3-bf28-1118d612a29a"
+    },
+    {
+        "name": "nombreProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 39,
+        "id": "3585121f-c401-61e8-1531-bea45d76ff4f"
+    },
+    {
+        "name": "DescripcionGeneralD",
+        "data": "hola a todos como estan",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 40,
+        "id": "5f17071f-ab5a-9b26-4e2a-4da003090966"
+    },
+    {
+        "name": "descripcionProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 41,
+        "id": "ec96b6c6-0132-28f3-ab33-0e1c53d92f6b"
+    },
+    {
+        "name": "caracteristicasProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 42,
+        "id": "6b0a7356-862e-e951-d13d-59cd41c1a778"
+    },
+    {
+        "name": "garantiaProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 43,
+        "id": "180e6db2-480a-e9aa-43f6-e69e04117ac5"
+    },
+    {
+        "name": "alturaProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 44,
+        "id": "e2aec727-ffe1-4478-8470-688a64e7ec4a"
+    },
+    {
+        "name": "anchoProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 45,
+        "id": "4750df14-c4c0-abc6-e746-1842250e54f0"
+    },
+    {
+        "name": "profundidadProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 46,
+        "id": "62c0dd35-cf5d-ce1a-c91a-94df36e6207b"
+    },
+    {
+        "name": "colorProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 47,
+        "id": "e6f5465f-af43-d156-949f-ad366691964d"
+    },
+    {
+        "name": "tipoProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 48,
+        "id": "bdde47ae-d9f7-b798-ebb0-25ee0a413d8c"
+    },
+    {
+        "name": "subTipoProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 49,
+        "id": "ed8f613e-4b26-9b6b-2e74-4e5ba08a2e0f"
+    },
+    {
+        "name": "materialProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 50,
+        "id": "be28ca44-fa91-683f-e1b8-7574e5434876"
+    },
+    {
+        "name": "marcaProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 51,
+        "id": "f51328a1-537f-a154-dc41-4d28e4f00779"
+    },
+    {
+        "name": "pesoProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 52,
+        "id": "b4ef45e6-ae24-8ec3-6692-f40c21699a51"
+    },
+    {
+        "name": "observacionProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 53,
+        "id": "56c2d902-f188-1583-c070-2e188ece3fc2"
+    },
+    {
+        "name": "recomendacionesUsoProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 54,
+        "id": "c7017511-2c6b-67e0-6d1a-d1d117c7315f"
+    },
+    {
+        "name": "advertenciaProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 55,
+        "id": "63c1093f-04ad-c03c-7bb4-5646e077ca8e"
+    },
+    {
+        "name": "rutaImagenSinFondoD",
+        "data": "{\n    \"ruta_Imagen_Procesada\": \"C:/Proyectos/Demo-Huawei-DeepSeek/ImagenesSinFondo/CINTA AISLANTE 3M.png\"\n}",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 56,
+        "id": "f54d96f6-7a82-c8e3-eed5-5a26babec478"
+    },
+    {
+        "name": "BeneficiosProducto",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 57,
+        "id": "4e020efd-5a21-82c9-0d7e-017bfcfed5b0"
+    },
+    {
+        "name": "descripcionGeminiD",
+        "data": "",
+        "type": "string",
+        "category": "Datos Producto",
+        "disabled": false,
+        "index": 58,
+        "id": "ee6200c7-458b-9781-a6a2-9d37502ae0fd"
+    },
+    {
+        "name": "indexD",
+        "data": "3",
+        "type": "string",
+        "category": "Excel Datos",
+        "disabled": false,
+        "index": 59,
+        "id": "f0946475-4a21-a9c2-4ffe-ce4a27b3e623"
+    },
+    {
+        "name": "unidadD",
+        "data": "3",
+        "type": "string",
+        "category": "Excel Datos",
+        "disabled": false,
+        "index": 60,
+        "id": "6bf70721-5660-6187-094b-322b4f76d4ac"
+    },
+    {
+        "name": "descripcionD",
+        "data": "index",
+        "type": "string",
+        "category": "Excel Datos",
+        "disabled": false,
+        "index": 61,
+        "id": "fd925548-5df7-6d91-041d-1655004da7fe"
+    },
+    {
+        "name": "promptGeminiD",
+        "data": "Describe en una sola línea técnica y comercial en qué consiste el siguiente producto, incluyendo solo sus características generales y posibles aplicaciones prácticas en entornos industriales o empresariales; la respuesta debe tener aproximadamente 150 palabras, ser larga pero concisa, sin saltos de línea, sin comillas, sin llaves, y lista para ser usada como valor en un diccionario JSON.",
+        "type": "string",
+        "category": "Gemini",
+        "disabled": false,
+        "index": 62,
+        "id": "41e15c4a-94ea-4319-1d2b-6c379e617dd2"
+    },
+    {
+        "name": "promptBeneficiosProducto",
+        "data": "Dame solo los beneficios del siguiente producto en una sola línea, redactados de forma clara, concisa y persuasiva para que el cliente diga wow, lo compro; sin títulos, subtítulos, viñetas ni saltos de línea; no uses comillas ni comillas simples, y si estas representan unidades, cámbialas a pulgadas; la respuesta debe tener un máximo de 60 palabras, no debe incluir introducción ni conclusión, y será usada como valor en un diccionario JSON, por lo tanto, solo debe entregarse como valor, sin llaves ni estructura adicional.",
+        "type": "string",
+        "category": "Gemini",
+        "disabled": false,
+        "index": 63,
+        "id": "d72db044-a015-f28c-ce67-054e3f60b2db"
+    },
+    {
+        "name": "promptDatosProductoD",
+        "data": "Quiero que extraigas y estructures la información de un producto a partir de este texto, y me devuelvas en el siguiente formato: nombreProductoD: [dato], DescripcionGeneralD: [vacío], alturaProductoD: [dato], anchoProductoD: [dato], profundidadProductoD: [dato], colorProductoD: [dato], tipoProductoD: [dato], materialProductoD: [dato], marcaProductoD: [dato], pesoProductoD: [dato], observacionProductoD: [dato], recomendacionesUsoProductoD: [dato], advertenciaProductoD: [dato], rutalmagenProducto: [vacío]. Rellena cada campo con el dato correspondiente del texto si está presente. Si el dato no existe, deja el campo vacío. El campo rutalmagenProducto debe estar siempre vacío.",
+        "type": "string",
+        "category": "Gemini",
+        "disabled": false,
+        "index": 64,
+        "id": "5915dedf-0cb2-fbe1-cb9d-77cd5a5024db"
+    },
+    {
+        "name": "dashProductoD",
+        "data": "",
+        "type": "string",
+        "category": "Logica Proceso",
+        "disabled": false,
+        "index": 65,
+        "id": "f1dc2933-48f3-5fe2-0682-8362355d6819"
+    },
+    {
+        "name": "fichaProductoD",
+        "data": "False",
+        "type": "string",
+        "category": "Logica Proceso",
+        "disabled": false,
+        "index": 66,
+        "id": "8d2a8f67-d25f-320d-1645-f49018dbcfc4"
+    },
+    {
+        "name": "fichaTecnicaD",
+        "data": "True",
+        "type": "string",
+        "category": "Logica Proceso",
+        "disabled": false,
+        "index": 67,
+        "id": "d7fefdde-b3f4-f852-3357-335c453cb52b"
+    },
+    {
+        "name": "urlPromartD",
+        "data": "https://www.promart.pe/",
+        "type": "string",
+        "category": "Logica Proceso",
+        "disabled": false,
+        "index": 68,
+        "id": "10a59ce9-e86b-0451-88de-5efdf2759088"
+    },
+    {
+        "name": "urlActualD",
+        "data": "https://www.promart.pe/cinta-aislante-3-4-x-18m-temflex-165-azul/p",
+        "type": "string",
+        "category": "Logica Proceso",
+        "disabled": false,
+        "index": 69,
+        "id": "51b20feb-efb9-aefd-d5d9-b1da9c4d53c1"
+    },
+    {
+        "name": "imagen",
+        "data": "https://promart.vteximg.com.br/arquivos/ids/1844088-444-444/138393.jpg?v=637656779770470000",
+        "type": "string",
+        "category": "Logica Proceso",
+        "disabled": false,
+        "index": 70,
+        "id": "bc02469f-9ab4-a6a7-66eb-6df2f717684a"
+    },
+    {
+        "name": "cookiesD",
+        "data": "",
+        "type": "string",
+        "category": "Logica Proceso",
+        "disabled": false,
+        "index": 71,
+        "id": "1b426f06-b363-df7f-1c8d-b0279051123a"
+    },
+    {
+        "name": "botonFichaProductoD",
+        "data": "True",
+        "type": "string",
+        "category": "Logica Proceso",
+        "disabled": false,
+        "index": 72,
+        "id": "c652ad72-3ce7-8ac5-f79d-e8f6bbc1b0d5"
+    },
+    {
+        "name": "botonCookiesD",
+        "data": "False",
+        "type": "string",
+        "category": "Logica Proceso",
+        "disabled": false,
+        "index": 73,
+        "id": "627c05fe-a8b4-7b23-1f95-97acaa5a0a87"
+    },
+    {
+        "name": "indexActualD",
+        "data": "3",
+        "type": "string",
+        "category": "Logica Sistema",
+        "disabled": false,
+        "index": 74,
+        "id": "cdb748e9-047d-155d-77b4-1de2694fe0f5"
+    },
+    {
+        "name": "detenerD",
+        "data": "False",
+        "type": "string",
+        "category": "Logica Sistema",
+        "disabled": false,
+        "index": 75,
+        "id": "0d27b711-baf9-e1bd-e6fb-955d01cd807b"
+    },
+    {
+        "name": "encontroDashboardD",
+        "data": "True",
+        "type": "string",
+        "category": "Logica Sistema",
+        "disabled": false,
+        "index": 76,
+        "id": "08ee3d54-4663-38ad-835f-9f4da9c9f20c"
+    },
+    {
+        "name": "notificacionInicialD",
+        "data": "True",
+        "type": "string",
+        "category": "Logica Sistema",
+        "disabled": false,
+        "index": 77,
+        "id": "7532476f-e242-8f9f-7c14-48791584dc2a"
+    },
+    {
+        "name": "productoV",
+        "data": "False",
+        "type": "string",
+        "category": "Logica Sistema",
+        "disabled": false,
+        "index": 78,
+        "id": "3b91aa2b-1120-a21e-7957-5e6aa7cb279a"
+    },
+    {
+        "name": "plantillaD",
+        "data": "",
+        "type": "string",
+        "category": "Logica Sistema",
+        "disabled": false,
+        "index": 79,
+        "id": "e561cf33-b6b6-6914-8bc0-04ac06b71196"
+    },
+    {
+        "name": "rutaArchivoConfiguracionD",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Config.json",
+        "type": "file",
+        "category": "Sistema",
+        "disabled": false,
+        "index": 80,
+        "id": "79c61fb5-6fba-3bb6-09b3-3057016ce3bd"
+    },
+    {
+        "name": "detenerIteracionD",
+        "data": "True",
+        "type": "string",
+        "category": "Sistema",
+        "disabled": false,
+        "index": 81,
+        "id": "80b4f962-f669-f6cd-a4c7-8c5346ff30d5"
+    },
+    {
+        "name": "existeExcelD",
+        "data": "True",
+        "type": "string",
+        "category": "Sistema",
+        "disabled": false,
+        "index": 82,
+        "id": "d544f66f-ae99-6ae5-5b44-7575481c9d65"
+    },
+    {
+        "name": "unidadIndexD",
+        "data": "",
+        "type": "string",
+        "category": "Variable",
+        "disabled": false,
+        "index": 83,
+        "id": "bb08c13b-89b9-679c-f2ac-eb61306549e8"
+    },
+    {
+        "name": "descripcionIndexD",
+        "data": "",
+        "type": "string",
+        "category": "Variable",
+        "disabled": false,
+        "index": 84,
+        "id": "4ff046d7-08a3-ee9e-a65b-319b3591da68"
+    },
+    {
+        "name": "unidadV",
+        "data": "A3",
+        "type": "string",
+        "category": "Variable",
+        "disabled": false,
+        "index": 85,
+        "id": "03a066e6-b214-abcf-cdd1-e46b8e1cb480"
+    },
+    {
+        "name": "descripcionV",
+        "data": "B3",
+        "type": "string",
+        "category": "Variable",
+        "disabled": false,
+        "index": 86,
+        "id": "ae485ab5-0ca0-f6f3-33a4-8fb0113af3a4"
+    },
+    {
+        "name": "Word",
+        "data": "C:/Proyectos/Demo-Huawei-DeepSeek/Materiales/plantilla.docx",
+        "type": "file",
+        "category": "Word",
+        "disabled": false,
+        "index": 87,
+        "id": "75540525-b8f3-dba3-8547-5a71455773d7"
+    }
+]

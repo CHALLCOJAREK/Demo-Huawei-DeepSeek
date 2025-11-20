@@ -1,0 +1,5 @@
+﻿{
+    "promptIA": "Describe en una sola l�nea t�cnica y comercial en qu� consiste el siguiente producto, incluyendo solo sus caracter�sticas generales y posibles aplicaciones pr�cticas en entornos industriales o empresariales; la respuesta debe tener aproximadamente 150 palabras, ser larga pero concisa, sin saltos de l�nea, sin comillas, sin llaves, y lista para ser usada como valor en un diccionario JSON.",
+    "datos": "Esponja 3M 2 en 1 x 6 unidades",
+    "respuestaIA": ""
+}

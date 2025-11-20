@@ -1,0 +1,162 @@
+/* Fuente base */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #3d5b5e;
+}
+
+/* CONTENEDOR GENERAL */
+.ficha-tecnica {
+  max-width: 900px;
+  margin: 0 auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 0px;
+  overflow: hidden;
+}
+
+/* ENCABEZADO */
+.encabezado {
+  background-color: #b3e4e3; /* Color sólido como respaldo para el gradiente */
+  padding: 20px 30px;
+  border-bottom: 8px solid #0ea8b3;
+  overflow: hidden; /* Limpia los floats */
+}
+.logo {
+  float: left; /* Posiciona el logo a la izquierda */
+}
+.logo img {
+  width: 180px;
+  height: auto;
+  display: block; /* Evita espacios no deseados */
+}
+.empresa {
+  float: right; /* Posiciona el texto a la derecha */
+  text-align: right;
+  font-size: 14px;
+  color: #ffffff;
+  line-height: 1.4;
+}
+
+/* IMAGEN PRODUCTO */
+.imagen-producto {
+  background-color: #25b5c4;
+  text-align: center; /* Centra elementos en línea o en línea-bloque */
+  height: 280px; /* Altura fija */
+  padding: 30px; /* Espaciado interno */
+  box-sizing: border-box; /* Incluye padding en la altura */
+
+}
+.imagen-producto img {
+  display: block; /* Convierte la imagen en bloque para centrar con márgenes */
+  max-width: 100%; /* Asegura que la imagen no exceda el contenedor */
+  max-height: 220px; /* Limita la altura para respetar el padding */
+  height: auto; /* Mantiene la proporción */
+  margin-left: auto; /* Centra horizontalmente */
+  margin-right: auto;
+  vertical-align: middle; /* Alinea verticalmente si es necesario */
+}
+
+
+/* TÍTULO PRINCIPAL */
+.titulo {
+  background-color: #0ea8b3;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/* CONTENIDO */
+.contenido {
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+  gap: 40px;
+}
+
+.columna {
+  flex: 1;
+}
+
+.izquierda p {
+  font-size: 15px;
+  text-align: justify;
+  margin-bottom: 15px;
+}
+
+/* TÍTULOS DE SECCIONES */
+h3 {
+  color: #4b7275;
+  font-size: 17px;
+  margin-bottom: 10px;
+}
+
+/* LISTAS */
+ul {
+  padding-left: 20px;
+  font-size: 14px;
+  margin: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+/* PIE DE PÁGINA */
+.pie {
+  background-color: #0ea8b3;
+  color: #fff;
+  padding: 15px 10px;
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.pie .contacto {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+.pie .contacto span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.pie .contacto span i {
+  font-size: 16px;
+  color: #fff;
+}
+
+.pie .contacto span:hover {
+  transform: scale(1.03);
+  color: #ffe600;
+}
+
+
+/* RESPONSIVO */
+@media (max-width: 768px) {
+  .contenido {
+    flex-direction: column;
+  }
+
+  .encabezado {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+
+  .empresa {
+    margin-top: 10px;
+    text-align: center;
+  }
+}

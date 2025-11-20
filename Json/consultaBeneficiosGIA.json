@@ -1,0 +1,5 @@
+{
+    "promptIA": "Dame solo los beneficios del siguiente producto en una sola línea, redactados de forma clara, concisa y persuasiva para que el cliente diga wow, lo compro; sin títulos, subtítulos, viñetas ni saltos de línea; no uses comillas ni comillas simples, y si estas representan unidades, cámbialas a pulgadas; la respuesta debe tener un máximo de 60 palabras, no debe incluir introducción ni conclusión, y será usada como valor en un diccionario JSON, por lo tanto, solo debe entregarse como valor, sin llaves ni estructura adicional.",
+    "datos": "Esponja 3M 2 en 1 x 6 unidades",
+    "respuestaIA": ""
+}
